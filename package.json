@@ -13,11 +13,9 @@
   },
   "author": "Erik V",
   "dependencies": {
-    "@types/lodash": "^4.14.182",
-    "excalibur": "^0.26.0"
+    "@types/lodash": "^4.14.182"
   },
   "devDependencies": {
-    "@excaliburjs/testing": "^0.25.1",
     "@typescript-eslint/eslint-plugin": "^5.27.1",
     "@typescript-eslint/parser": "^5.27.1",
     "clean-webpack-plugin": "^4.0.0",
